@@ -17,7 +17,7 @@ spotify-wrapped-analysis/
 
 - Python 3.8+
 - pandas
-- plotly
+- matplotlib
 - jupyter
 
 ## Usage
