@@ -1,4 +1,4 @@
-# Spotify Wrapped Analysis
+# Spotify Wrapped 2024 Analysis
 
 This project analyzes personal Spotify streaming data to verify the accuracy of Spotify Wrapped and perform a deeper analysis of listening habits.
 
